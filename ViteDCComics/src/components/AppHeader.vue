@@ -56,8 +56,8 @@ export default {
 
 .container {
     display: flex;
-    justify-content: space-around;
-    padding: 30px;
+    justify-content: space-between;
+    padding: 22px 0;
     font-size: 12px;
     font-weight: bold;
 
